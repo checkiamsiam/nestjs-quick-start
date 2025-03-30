@@ -57,7 +57,7 @@ npm run format
 ## 📜 API Documentation
 After running the project, you can access the Swagger API documentation at:
 ```
-http://localhost:3000/api
+http://localhost:3000/api/docs
 ```
 
 ## 📂 Project Structure
